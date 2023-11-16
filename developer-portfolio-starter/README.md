@@ -1,21 +1,4 @@
 # DEVELOPER PORTFOLIO
-
-A portfolio website template for campers
-
-![jane-doe](jane-shot.png)
-
-## Author
-
-[@koladechris](https://www.twitter.com/koladechris)
-
-## Github repo
-
-This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
-
-## Sample Website
-
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
-
 ## Tech Stack
 
 **Client:** HTML, CSS, Vanilla JavaSCript
@@ -52,6 +35,4 @@ If you encounter problems customizing, reach out to me by sending me a DM on my 
 
 ## Acknowledgements
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
